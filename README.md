@@ -103,7 +103,7 @@ A tool for tracking and comparing market prices across different vendors and loc
   <a href="mailto:themba21mkandawire@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/themba-mkandawire-a84b7a416](https://www.linkedin.com/in/themba-mkandawire-a84b7a416">
+  <a href="https://www.linkedin.com/in/themba-mkandawire-a84b7a416">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/TGSMk21">
