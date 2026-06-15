@@ -72,6 +72,11 @@ A multi-vendor campus marketplace for **Mulungushi University** (Kabwe, Zambia).
 ### 🆔 Zambia Digital ID — ZAMREN 2026 Hackathon 🥇
 **Winner** of the ZAMREN 2026 Hackathon! Built a digital identity solution for Zambia that streamlines citizen identification and verification processes. The project addressed real challenges in digital identity management for underserved communities.
 
+### 🚗 MU Gate Management System
+A Java-based gate management and vehicle access control system for **Mulungushi University** campus. Handles user authentication (ADMIN, GUARD, GUEST roles), vehicle registration, parking permits (STUDENT, STAFF, GUEST), entry/exit logging with guard timestamps, and a full audit trail of all actions — all backed by MySQL via JDBC. Built with a layered architecture (models → DAO controllers → utilities), salted SHA-256 password hashing, and regex-based input validation.
+
+[![MU Gate System](https://img.shields.io/badge/View_Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/TGSMk21/Mulungushi-University-Gate-Management-)
+
 ### 📊 Market Price Tracker
 A tool for tracking and comparing market prices across different vendors and locations, helping consumers make informed purchasing decisions.
 
