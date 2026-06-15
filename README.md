@@ -1,4 +1,4 @@
-# Hi there, I'm Themba Mkandawire 👋
+# Hi there, I'm Themba Mkandawire 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%26+Java+%7C+Django+%26+Spring+Boot;Frontend+Explorer+%7C+React+%7C+Next.js+%7C+Tailwind;Open+Source+Contributor+%7C+Hackathon+Winner;Building+the+future%2C+one+API+at+a+time" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 I'm a **Backend Developer in training** with a growing passion for crafting scalable, well-architected systems. I believe great software starts with a solid backend — clean APIs, efficient databases, and thoughtful logic. Along the way, I've picked up enough frontend skills to bring full products to life.
 
-I'm currently based in **Zambia**, working on real-world projects that solve problems for African communities — from campus marketplaces to church management systems and AI-powered legal tools.
+I'm currently working on real-world projects that solve problems for African communities — from campus marketplaces to church management systems and AI-powered legal tools.
 
 ---
 
