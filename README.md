@@ -1,4 +1,4 @@
-# Hi there, I'm Themba Mkandawire 
+# Themba Mkandawire 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%26+Java+%7C+Django+%26+Spring+Boot;Frontend+Explorer+%7C+React+%7C+Next.js+%7C+Tailwind;Open+Source+Contributor+%7C+Hackathon+Winner;Building+the+future%2C+one+API+at+a+time" alt="Typing SVG" />
